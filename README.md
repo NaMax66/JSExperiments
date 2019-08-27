@@ -8,3 +8,4 @@ Array: map, slice, findIndex and includes, filter
 jsonStr-y - можно создать объект и в консоль вызвать - часто используют*/
 
 const id = window.location.hash.replace('#', '');
+
